@@ -32,7 +32,7 @@
 | 平台 | 联系方式 |  
 |------|----------|  
 | 微信 | `AAAQZ84` |  
-| 邮箱 | `weizhou_zhou@qq.com` `zhouaroundzhou@gmail` |  
+| 邮箱 | `weizhou_zhou@qq.com` `zhouaroundzhou@gmail.com` |  
  
 > 📌 项目特点：实现豆瓣艺术评价体系与猫眼商业数据的跨维度关联分析  
 > ⚠️ 注意：本系统仅供学术研究，请遵守[豆瓣机器人协议](https://www.douban.com/robots.txt)
