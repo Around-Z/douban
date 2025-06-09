@@ -25,6 +25,7 @@
 | 模块 | 实现方案 |  
 |------|----------|  
 | 数据采集 | Scrapy |  
+| 数据存储 | MySQL | 
 | 数据分析 | Pandas + NetworkX |  
 | 可视化 | Plotly + Streamlit |  
  
