@@ -1,0 +1,27 @@
+# CineCompass/requirements.txt
+
+# Core Application Framework
+streamlit
+
+# Data Handling & Numerical Operations
+pandas
+numpy
+
+# Database Connection & ORM
+SQLAlchemy
+PyMySQL
+
+# Visualization & Plotting
+plotly
+matplotlib
+wordcloud
+
+# Natural Language Processing (Chinese Segmentation)
+jieba
+
+# Machine Learning & Statistics
+scikit-learn
+scipy
+
+# Image Processing (for WordCloud mask & other tasks)
+Pillow
